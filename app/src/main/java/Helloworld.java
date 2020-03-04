@@ -1,4 +1,4 @@
-/* This is a java example that demonstrates use of printing statements in multiple lines*/
+/* This is a java example that demonstrates printing statements in multiple lines*/
 
 public class Helloworld {
     public static void main(String [] args) {
