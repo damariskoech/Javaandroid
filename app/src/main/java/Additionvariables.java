@@ -1,4 +1,4 @@
-/* This is a java example that demonstrates addition of variables*/
+/* This is a java example that shows addition of variables*/
 
 public class Additionvariables {
     public static void main(String [] args) {
