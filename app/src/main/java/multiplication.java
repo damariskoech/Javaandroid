@@ -9,6 +9,7 @@ class multiplication
         num1 = sc.nextInt(); //scan data for input of integer value
         num2 = sc.nextInt();
         multiplication = num1 * num2;
+        //prints the two integers
         System.out.println("Sum of entered integers = "+multiplication);
     }
 }
