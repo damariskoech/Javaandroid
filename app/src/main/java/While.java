@@ -1,7 +1,7 @@
 public class While {
-    public static void main(String args[]){
+    public static void main(String [] args){
 
-        // While Loop example by “Android ATC”
+        // While Loop example by Damaris
 
         int count =0;
         while (count <11)
